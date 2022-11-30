@@ -1,0 +1,9 @@
+{
+  "eslint.workingDirectories": [
+    {
+      "directory": "./packages/extension",
+      "changeProcessCWD": true
+    }
+  ],
+  "cSpell.words": ["enkrypt", "enkryptcom", "polkadot", "webextension"]
+}
